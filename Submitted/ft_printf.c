@@ -64,7 +64,7 @@ int	ft_before(const char *str, int track, va_list input)
 		return (ft_intconvert(va_arg(input, int)));
 	else if (str[track] == 's')
 		return (ft_strconvert(va_arg(input, char *)));
-	if (str[track] == 'u')
+	else if (str[track] == 'u')
 		return (ft_unintconvert(va_arg(input, unsigned int)));
 	else if (str[track] == 'c')
 	{
