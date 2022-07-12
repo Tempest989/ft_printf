@@ -1,5 +1,5 @@
 # ft_printf
-This Project is about creating a library that contains a function called ft_printf, which is a re-creation of the printf function.
+This Project is about creating a library that contains a function called ft_printf, which is a re-creation of the printf function.  
 Read the [subject.pdf](https://github.com/Tempest989/ft_printf/blob/main/en.subject.pdf) for in-depth information about the Project.
 # My Score
 <img width="1347" alt="ft_printf Score" src="https://user-images.githubusercontent.com/55472613/178435046-1fe9b18c-df8b-40bd-ac35-78aa37d0553d.png">
