@@ -7,6 +7,6 @@ Read the [subject.pdf](https://github.com/Tempest989/ft_printf/blob/main/en.subj
 # Makefile Utility
 - `make` and `make ft_printf` will compile the ft_printf Project, as the library `libftprintf.a`.
 - `make clean` will delete all the compiled `.o` files.
-- `make fclean` will run `make clean` and then delete the library `libftprintf.a`
-- `make re` will run the commands, `make fclean` then `make`, to delete (if possible) `libftprintf.a` and all `.o` files, then compile the library `libftprintf.a`
+- `make fclean` will run `make clean` and then delete the library `libftprintf.a`.
+- `make re` will run the commands, `make fclean` then `make`, to delete (if possible) `libftprintf.a` and all `.o` files, then compile the library `libftprintf.a`.
 ### A helpful [Tester](https://github.com/Tripouille/printfTester) which I used to pass originally, and another helpful [Tester](https://github.com/Abaker-Hype/42-Cursus-Tester) which I used when doing the *Better_Version*.
